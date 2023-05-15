@@ -15,7 +15,7 @@ config.integrated_title_button_alignment = "Right"
 config.initial_cols = 90
 config.initial_rows = 30
 
-config.window_background_opacity = 0.7
+config.window_background_opacity = 0.85
 
 config.font = wezterm.font_with_fallback {
   {
