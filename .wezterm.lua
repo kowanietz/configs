@@ -5,6 +5,8 @@ if wezterm.config_builder then
   config = wezterm.config_builder()
 end
 
+config.scrollback_lines = 500
+
 config.use_fancy_tab_bar = false
 config.hide_tab_bar_if_only_one_tab = true
 
